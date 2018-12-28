@@ -1,2 +1,4 @@
-![android.png](https://i.postimg.cc/0Ny5NCC4/android.png)
+![android.png](/root/gityongDoc/common/pic/Android.png)
+
+Android进阶思维导图
 
