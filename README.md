@@ -7,3 +7,5 @@
 
 [Android进阶思维导图](./common/android进阶思维导图.md)
 
+[Linux下文件的读写权限](./linux/file_permission.md)
+
