@@ -9,3 +9,5 @@
 
 [Linux下文件的读写权限](./linux/file_permission.md)
 
+![思维导图.png](https://i.loli.net/2018/12/30/5c28e12f6279f.png)
+
