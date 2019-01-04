@@ -12,5 +12,7 @@
 
 [Linux下文件的读写权限](./linux/file_permission.md)
 
+[adb相关](./adb/adb_about.md)
+
 
 
