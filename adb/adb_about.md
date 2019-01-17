@@ -4,6 +4,8 @@ Android未root通过adb shell查看data目录下信息
 
 [链接在此](https://testerhome.com/topics/12183)
 
+[adb forward相关](https://blog.csdn.net/u013553529/article/details/80036227)
+
 ### 常用命令
 
 [链接](https://www.jianshu.com/p/56fd03f1aaae)
