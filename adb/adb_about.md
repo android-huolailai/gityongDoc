@@ -10,6 +10,18 @@ Android未root通过adb shell查看data目录下信息
 
 [链接](https://www.jianshu.com/p/56fd03f1aaae)
 
++ adb命令启动应用
+
+   adb shell am start  com.tuya.testlottie/com.tuya.testlottie.MainActivity 
+
+  ---
+
+  统计应用启动时长（adb shell am start -W ）
+
+  adb shell am start -W com.tuya.testlottie/com.tuya.testlottie.MainActivity
+
+  
+
 + 获取进程
 
   adb shell ps  

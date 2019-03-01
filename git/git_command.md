@@ -71,6 +71,8 @@
 
 + ```git submodule add git@github.com:jjz/pod-library.git   pod-library ```  添加子module pod-library（主工程会多出个.gitmodules文件用来记录submodule信息，同时需要在setting.gradle中添加该module即可）
 
++ ```git submodule add [-b master ] [URL to Git repo] [local path]  ```克隆制定分支的submodule
+
 + ```git clone <repository> --recursive```      递归的方式克隆整个项目（如果一个工程包含submodule，我们可通过递归克隆将主工程和自工程同时下载下来）
 
 + 
