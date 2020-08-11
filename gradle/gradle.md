@@ -8,3 +8,7 @@
      configurations.compile.each { println it }结果
  }
 ```
+
++ 打印所有的依赖
+
+https://www.jb51.net/article/143708.htm
